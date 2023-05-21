@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 May21, trying to stash
 changes please stash cheddam mava
 kokokk
 kokokok
 okokok
 okok
+=======
+created newfile to test, not an empty file
+endii ra idi
+
+>>>>>>> Stashed changes
